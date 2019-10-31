@@ -21,6 +21,6 @@
     "express": "^4.16.2",
     "js": "^0.1.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^4.10.8"
+    "mongoose": "^5.7.5"
   }
 }
